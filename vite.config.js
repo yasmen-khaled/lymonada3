@@ -19,6 +19,6 @@ export default defineConfig(({ mode }) => {
       },
       chunkSizeWarningLimit: 10000, 
     },
-    base: './dist',
+    base: './',
  }
 })
